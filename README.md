@@ -4,6 +4,7 @@ At the end of this process, your Azure function will forward logs from an Azure 
 
 ## Before you start
 
+
 To get everything up and running, you'll need to have these things ready before you start:
 
 You'll need:
