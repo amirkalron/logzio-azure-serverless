@@ -7,7 +7,7 @@
       "eventHubName": "insights-operational-logs",
       "connection": "AzureEventHubConnectionString",
       "cardinality": "many",
-      "consumerGroup": "LogzioConsumerGroup"
+      "consumerGroup": "$Default"
     },
     {
       "type": "blob",
